@@ -1,0 +1,24 @@
+PODS:
+  - HexColors (6.0.0)
+  - SwiftHEXColors (1.2.0)
+  - UIColor_Hex_Swift (4.2.0)
+
+DEPENDENCIES:
+  - HexColors (~> 6.0.0)
+  - SwiftHEXColors (~> 1.2.0)
+  - UIColor_Hex_Swift (~> 4.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HexColors
+    - SwiftHEXColors
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  HexColors: f8c66339541a74bb08905bfe7cd4f8cc85e9e173
+  SwiftHEXColors: a4ebe93a70890a9fa124e205dd785cc7552273b4
+  UIColor_Hex_Swift: bc07fc197421ee896b9ed6dcfa2054b7fbf75145
+
+PODFILE CHECKSUM: a37f3285cdd49e4b232da4f643c7cb7cc268d15e
+
+COCOAPODS: 1.6.0

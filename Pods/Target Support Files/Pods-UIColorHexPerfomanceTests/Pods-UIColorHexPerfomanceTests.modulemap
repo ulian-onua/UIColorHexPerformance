@@ -1,0 +1,6 @@
+framework module Pods_UIColorHexPerfomanceTests {
+  umbrella header "Pods-UIColorHexPerfomanceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
